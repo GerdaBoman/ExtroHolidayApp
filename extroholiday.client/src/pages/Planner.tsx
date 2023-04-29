@@ -61,6 +61,7 @@ const Planner = () => {
 
   const [calendar, setCalendar] = useState<IDate[]>([]);
 
+  //Change link to match the new azure api!
   const getCalendar = async (year: number) => {
     const res = await fetch(
       `https://extroholidayapp.azurewebsites.net/api/Caledar?year=${year}`
