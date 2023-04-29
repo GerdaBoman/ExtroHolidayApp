@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/37db0485-b8a4-4091-8967-fcf9a0ee1cff/resourceGroups/DefaultResourceGroup-WEU/providers/Microsoft.Web/sites/ExtroHolidayApp",
+    "appService.deploySubpath": "."
+}
